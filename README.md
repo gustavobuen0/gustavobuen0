@@ -2,7 +2,7 @@
 
 # 👨‍💻 Gustavo Bueno
 
-### `Full Stack Developer` · `Information Security`
+### `Full Stack Developer` · `Cyber Security`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Estudante+de+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Construindo+solu%C3%A7%C3%B5es+com+tecnologia;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing SVG" />
 
