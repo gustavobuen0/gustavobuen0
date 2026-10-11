@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/gustavobuenogti">
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
   </a>
-  <a href="https://gustavobuen0.github.io/portifolio/">
+  <a href="https://gustavobuen0.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfólio-Acesse-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfólio"/>
   </a>
 </p>
