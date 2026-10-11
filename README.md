@@ -99,7 +99,7 @@ const gustavo = {
 
 ## 🚀 Projetos em destaque
 
-### 01. IINFRACHAMADOS
+### 01. INFRACHAMADOS
 
 **Sistema de gerenciamento de chamados de Infraestrutura de TI**
 
