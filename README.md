@@ -28,7 +28,7 @@
 
 Olá! Sou **Gustavo Bueno**, desenvolvedor Full Stack com experiência profissional no desenvolvimento, na manutenção e na evolução de sistemas e aplicações web.
 
-Atuo no **ITI – Instituto Tecnológico Inovação**, trabalhando com tecnologias como PHP, Laravel, JavaScript, HTML, CSS, MySQL e SQL Server, participando do desenvolvimento de funcionalidades, implementação de regras de negócio, integração com bancos de dados e aprimoramento de sistemas utilizados em ambientes reais.
+Atuo no **ITI – Instituto Tecnológico Inovação**, trabalhando com tecnologias como PHP, Python, Laravel, JavaScript, HTML, CSS, MySQL e SQL Server, participando do desenvolvimento de funcionalidades, implementação de regras de negócio, integração com bancos de dados e aprimoramento de sistemas utilizados em ambientes reais.
 
 Possuo curso técnico em **Informática para Internet pela ETEC de Poá**, também sou graduado em **Gestão da Tecnologia da Informação pela FATEC Itaquaquecetuba** e atualmente curso uma **Pós-graduação em Segurança da Informação pela PUC Campinas em parceria com a PUC Paraná**, direcionando minha trajetória profissional para a integração entre desenvolvimento de software e segurança.
 
