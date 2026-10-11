@@ -41,6 +41,7 @@ const gustavo = {
   localizacao: "São Paulo, Brasil",
 
   formacao: {
+    técnico: "Informática para Internet",
     graduacao: "Gestão da Tecnologia da Informação",
     especializacao: "Segurança da Informação"
   },
