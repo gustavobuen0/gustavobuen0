@@ -1,231 +1,254 @@
-<div align="center">
+ <div align="center">
 
-# 👨‍💻 Gustavo Bueno
+# Gustavo Bueno
 
-### `Full Stack Developer` · `Cyber Security`
+### Desenvolvedor Full Stack Júnior | Segurança da Informação
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Estudante+de+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Construindo+solu%C3%A7%C3%B5es+com+tecnologia;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing SVG" />
+**Desenvolvendo soluções web. Evoluindo com tecnologia. Pensando em segurança.**
 
-<br>
+<p>
+  <a href="https://github.com/gustavobuen0">
+    <img src="https://img.shields.io/badge/GitHub-gustavobuen0-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gustavobuenogti">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
+  </a>
+  <a href="https://gustavobuen0.github.io/portifolio/">
+    <img src="https://img.shields.io/badge/Portfólio-Acesse-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfólio"/>
+  </a>
+</p>
 
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117" />
-</a>
-
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-  <img src="https://img.shields.io/badge/Projetos-GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Desenvolvimento+Full+Stack;PHP+%7C+Laravel+%7C+JavaScript;MySQL+%7C+SQL+Server;P%C3%B3s-graduando+em+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o" alt="Apresentação animada"/>
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## 👨‍💻 Sobre mim
+
+Olá! Sou **Gustavo Bueno**, desenvolvedor Full Stack com experiência profissional no desenvolvimento, na manutenção e na evolução de sistemas e aplicações web.
+
+Atuo no **ITI – Instituto Tecnológico Inovação**, trabalhando com tecnologias como PHP, Laravel, JavaScript, HTML, CSS, MySQL e SQL Server, participando do desenvolvimento de funcionalidades, implementação de regras de negócio, integração com bancos de dados e aprimoramento de sistemas utilizados em ambientes reais.
+
+Também sou graduado em **Gestão da Tecnologia da Informação pela FATEC Itaquaquecetuba** e atualmente curso uma **pós-graduação em Segurança da Informação**, direcionando minha trajetória profissional para a integração entre desenvolvimento de software e segurança.
+
+Acredito que desenvolver boas aplicações vai além de escrever código: significa compreender problemas, construir soluções confiáveis e buscar continuamente melhorias em qualidade, manutenção e segurança.
 
 ```javascript
 const gustavo = {
-    name: "Gustavo Bueno",
-    role: "Full Stack Developer",
-    focus: [
-        "Desenvolvimento Web",
-        "Backend",
-        "Frontend",
-        "Segurança da Informação"
-    ],
-    currentlyLearning: [
-        "Cyber Security",
-        "Arquitetura de Software",
-        "Boas práticas de desenvolvimento"
-    ],
-    location: "Brasil",
-    mindset: "Learn → Build → Improve → Repeat"
+  nome: "Gustavo Bueno",
+  cargo: "Desenvolvedor Full Stack Júnior",
+  localizacao: "São Paulo, Brasil",
+
+  formacao: {
+    graduacao: "Gestão da Tecnologia da Informação",
+    especializacao: "Segurança da Informação"
+  },
+
+  principaisTecnologias: [
+    "PHP",
+    "Laravel",
+    "JavaScript",
+    "MySQL",
+    "SQL Server"
+  ],
+
+  interesses: [
+    "Desenvolvimento Web",
+    "Backend",
+    "Segurança de Aplicações",
+    "Arquitetura de Software"
+  ],
+
+  filosofia: "Aprender, construir, melhorar e evoluir."
 };
 ```
 
-Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e construção de soluções web.
+## 🛠️ Tecnologias e ferramentas
 
-Minha experiência envolve desenvolvimento **Frontend e Backend**, criação de sistemas, integração de tecnologias e desenvolvimento de aplicações utilizando diferentes stacks.
-
-Atualmente também direciono meus estudos para **Segurança da Informação**, buscando unir desenvolvimento de software com uma visão cada vez maior sobre segurança, arquitetura e proteção de aplicações.
-
-> **"Transformando ideias em código e código em soluções."**
-
----
-
-# ⚡ Tech Stack
-
-### Frontend
+### Desenvolvimento Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python" alt="HTML, CSS, JavaScript, PHP e Python"/>
 </p>
 
-### Backend
+### Frameworks e bibliotecas
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,vue" alt="Laravel, Bootstrap, Tailwind CSS e Vue.js"/>
 </p>
 
-### Database
+### Bancos de dados
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mssql" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL_Server-Database-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=00D9FF" alt="Microsoft SQL Server"/>
 </p>
 
-### Tools & Environment
+### Ferramentas e plataformas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,composer,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" alt="Git, GitHub, Visual Studio Code e WordPress"/>
+  <img src="https://img.shields.io/badge/Composer-PHP-0D1117?style=flat-square&logo=composer&logoColor=00D9FF" alt="Composer"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-Development-0D1117?style=flat-square&logo=azuredevops&logoColor=00D9FF" alt="Azure DevOps"/>
 </p>
 
 ---
 
-# 🛡️ Cyber Security
+## 🚀 Projetos em destaque
 
-Além do desenvolvimento, estou construindo minha base em **Segurança da Informação**, estudando conceitos relacionados a:
+### 01. IINFRACHAMADOS
 
-```text
-┌──────────────────────────────────────────────┐
-│              CYBER SECURITY                  │
-├──────────────────────────────────────────────┤
-│                                              │
-│  🔐 Segurança de aplicações                 │
-│  🌐 Segurança Web                            │
-│  🖥️ Sistemas e infraestrutura               │
-│  🔎 Análise de vulnerabilidades              │
-│  🧩 Arquitetura segura                       │
-│  🛡️ Boas práticas de desenvolvimento        │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+**Sistema de gerenciamento de chamados de Infraestrutura de TI**
 
-Meu objetivo é desenvolver aplicações pensando não apenas em **funcionalidade**, mas também em **segurança, manutenção, escalabilidade e qualidade**.
+Sistema interno desenvolvido para centralizar solicitações, organizar atendimentos e facilitar o acompanhamento de demandas operacionais da equipe de Infraestrutura de TI.
 
----
+**Principais funcionalidades e atividades:**
+- Desenvolvimento e manutenção de funcionalidades para gerenciamento de chamados.
+- Integração com SQL Server para consulta e manipulação de dados.
+- Desenvolvimento de dashboards gerenciais e relatórios operacionais.
+- Implementação de filtros e mecanismos de pesquisa.
+- Aprimoramento da organização e da consulta de informações.
 
-# 🚀 Projetos
+**Tecnologias:** PHP · Laravel · JavaScript · SQL Server · HTML5 · Bootstrap · Tailwind CSS · Composer
 
-## 📌 Sistemas & Aplicações
+### 02. AVANÇATECH
 
-### 🔹 SIGA — Sistema de Gestão
+**Plataforma educacional de capacitação tecnológica**
 
-Sistema desenvolvido com **Laravel**, envolvendo gerenciamento de usuários, permissões, acessos e funcionalidades administrativas.
+Plataforma educacional desenvolvida no contexto de uma iniciativa pública de capacitação tecnológica, com foco em formação profissional, inclusão digital e preparação para o mercado de trabalho.
 
-**Tecnologias:**
+**Destaques:**
+- Desenvolvimento e manutenção de funcionalidades da plataforma.
+- Aprimoramento de interfaces e recursos de navegação.
+- Suporte às funcionalidades de gestão de cursos e emissão de certificados.
+- Plataforma com mais de **5.000 alunos ativos**, conforme os dados informados sobre o projeto.
 
-`Laravel` `PHP` `MySQL` `JavaScript` `Blade` `Vite`
+**Tecnologias:** PHP · WordPress · JavaScript · HTML5 · CSS3 · Bootstrap · MySQL
 
----
+### 03. SIGS — Sistema Integrado de Gestão em Sala de Aula
 
-### 🔹 Avançatech
+**Sistema web para gestão de processos educacionais**
 
-Projeto desenvolvido para uma plataforma educacional utilizando tecnologias web modernas.
+Aplicação voltada à gestão e à organização de informações e processos relacionados ao ambiente educacional, utilizada no contexto de soluções para prefeituras do estado de São Paulo.
 
-**Tecnologias:**
+**Principais atividades:**
+- Desenvolvimento e manutenção de funcionalidades web.
+- Implementação de regras de negócio e melhorias nos fluxos operacionais.
+- Criação e aprimoramento de interfaces.
+- Implementação de operações CRUD para gerenciamento de registros.
+- Integração com banco de dados.
+- Correção de erros e manutenção evolutiva da aplicação.
 
-`WordPress` `PHP` `JavaScript` `Bootstrap` `MySQL`
+**Tecnologias:** PHP · Laravel · JavaScript · HTML · CSS · MySQL
 
----
+### 04. SIGS Saúde — Sistema Integrado de Gestão de Saúde
 
-### 🔹 Projetos Web
+**Sistema web para gestão de atendimentos e projetos sociais**
 
-Desenvolvimento de aplicações e experimentos utilizando diferentes tecnologias do ecossistema web.
+Aplicação destinada à organização de informações relacionadas a atendimentos de saúde e ao apoio a iniciativas de inclusão social e trabalhista.
 
-```text
-Frontend
-   ↓
-Interface
-   ↓
-JavaScript / Vue
-   ↓
-API / Backend
-   ↓
-PHP / Laravel
-   ↓
-Database
-   ↓
-MySQL / SQL Server
-```
+**Principais atividades:**
+- Desenvolvimento e manutenção de funcionalidades utilizando PHP e Laravel.
+- Implementação de módulos para cadastro e gerenciamento de pessoas vinculadas a projetos sociais.
+- Desenvolvimento de fichas médicas e recursos para organização de atendimentos.
+- Implementação de funcionalidades para gerenciamento de consultas clínicas e especializadas.
+- Desenvolvimento de relatórios administrativos e de acompanhamento.
+- Integração com banco de dados para consulta e gerenciamento de informações.
 
-> 🚧 Mais projetos sendo desenvolvidos...
+**Tecnologias:** PHP · Laravel · Desenvolvimento Web · Banco de Dados
 
 ---
 
-# 📊 GitHub Analytics
+## 🔐 Segurança da Informação
+
+Atualmente, estou ampliando meus conhecimentos em Segurança da Informação por meio da pós-graduação e do estudo contínuo de tecnologias e boas práticas relacionadas à proteção de sistemas.
+
+Tenho interesse especial na convergência entre desenvolvimento de software e segurança, buscando compreender como criar aplicações mais confiáveis e resilientes.
+
+**Áreas de interesse:**
+
+- Segurança de aplicações web.
+- Desenvolvimento seguro de software.
+- Proteção de dados e controle de acesso.
+- Segurança de sistemas e infraestrutura.
+- Análise de vulnerabilidades.
+- Arquitetura de software com foco em segurança.
+
+Meu objetivo é aprofundar esses conhecimentos e aplicá-los progressivamente à minha atuação profissional, respeitando as boas práticas e os princípios de desenvolvimento seguro.
+
+---
+
+## 🎓 Formação acadêmica
+
+**Pós-graduação em Segurança da Informação**  
+PUC Campinas, em parceria com a PUCPR  
+`2026 – Em andamento`
+
+**Tecnologia em Gestão da Tecnologia da Informação**  
+FATEC Itaquaquecetuba  
+`2021 – 2024`
+
+**Técnico em Informática para Internet**  
+ETEC de Poá  
+`2018 – 2021`
+
+---
+
+## 📜 Cursos e certificações
+
+- Certificado de Mérito Estudantil — Centro Paula Souza.
+- Get Connected — Cisco Networking Academy.
+- Avançando com PHP: Arrays, Strings, Funções e Web — Alura.
+- PHP: Conceitos, Lidando com Dados, Loops e Mais — Alura.
+- Consultas SQL: Avançando no SQL com MySQL — Alura.
+- SQL com MySQL: Manipule e Consulte Dados — Alura.
+- Lógica de Programação com JavaScript — Alura.
+- PHP e MySQL: Criando sua Primeira Aplicação Web — Alura.
+- Linguagem de Programação Java — Básico — Fundação Bradesco.
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+<a href="https://github.com/gustavobuen0">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavobuen0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=E6EDF3&rank_icon=github" alt="Estatísticas do GitHub"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+<a href="https://github.com/gustavobuen0">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobuen0&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" alt="Linguagens mais utilizadas"/>
+</a>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavobuen0&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de contribuições"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 🌐 Vamos nos conectar?
+
+Estou aberto a conexões profissionais, troca de conhecimentos e oportunidades relacionadas ao desenvolvimento de software e à Segurança da Informação.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🧩 Atualmente
-
-```text
-[████████████████████░░]  Desenvolvimento Full Stack
-
-[███████████████░░░░░░░]  Segurança da Informação
-
-[██████████████░░░░░░░░]  Arquitetura de Software
-
-[████████████████░░░░░░]  Novos Projetos
-```
-
-🎯 **Objetivos atuais**
-
-* 🚀 Evoluir como Desenvolvedor Full Stack
-* 🔐 Aprofundar conhecimentos em Segurança da Informação
-* 🧠 Aprimorar arquitetura e qualidade de código
-* 💻 Criar projetos reais para solucionar problemas
-* 📚 Continuar estudando novas tecnologias
-* 🌎 Construir uma carreira sólida em tecnologia
-
----
-
-# 🌐 Onde me encontrar
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<a href="https://github.com/gustavobuen0">
+  <img src="https://img.shields.io/badge/GitHub-Repositórios-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/gustavobuenogti">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
+</a>
+<a href="https://gustavobuen0.github.io/portifolio/">
+  <img src="https://img.shields.io/badge/Portfólio-Meus_Projetos-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfólio"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-</a>
+<br/><br/>
 
-<a href="https://gustavobuen0.github.io/portifolio/" target="_blank"> 
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F7FF" alt="Portfolio"/> 
-</a>
+**Transformando conhecimento em soluções. Evoluindo a cada linha de código.**
 
-</div>
-
----
-
-<div align="center">
-
-### 💻 `while(alive) { code(); learn(); improve(); }`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
-
-<br><br>
-
-**Obrigado pela visita! 🚀**
+<sub>Obrigado pela visita! 🚀</sub>
 
 </div>
