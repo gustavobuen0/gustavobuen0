@@ -48,6 +48,7 @@ const gustavo = {
 
   principaisTecnologias: [
     "PHP",
+    "Python",
     "Laravel",
     "JavaScript",
     "MySQL",
